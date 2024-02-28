@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585513202736",
+    "project_id": "managercarios",
+    "storage_bucket": "managercarios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585513202736:android:7766328ffdef6759f4e9f5",
+        "android_client_info": {
+          "package_name": "com.example.manager_car"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEM0g6B19BkW66juvHRK9dxOl-A-jxIYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
